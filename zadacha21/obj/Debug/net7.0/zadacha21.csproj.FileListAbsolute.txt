@@ -1,0 +1,15 @@
+/Users/aleksejparasnenko/Desktop/C#_seminaru/C#_homeWork_seminar2/Home_work_3_seminr/zadacha21/obj/Debug/net7.0/zadacha21.csproj.AssemblyReference.cache
+/Users/aleksejparasnenko/Desktop/C#_seminaru/C#_homeWork_seminar2/Home_work_3_seminr/zadacha21/obj/Debug/net7.0/zadacha21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksejparasnenko/Desktop/C#_seminaru/C#_homeWork_seminar2/Home_work_3_seminr/zadacha21/obj/Debug/net7.0/zadacha21.AssemblyInfoInputs.cache
+/Users/aleksejparasnenko/Desktop/C#_seminaru/C#_homeWork_seminar2/Home_work_3_seminr/zadacha21/obj/Debug/net7.0/zadacha21.AssemblyInfo.cs
+/Users/aleksejparasnenko/Desktop/C#_seminaru/C#_homeWork_seminar2/Home_work_3_seminr/zadacha21/obj/Debug/net7.0/zadacha21.csproj.CoreCompileInputs.cache
+/Users/aleksejparasnenko/Desktop/C#_seminaru/C#_homeWork_seminar2/Home_work_3_seminr/zadacha21/bin/Debug/net7.0/zadacha21
+/Users/aleksejparasnenko/Desktop/C#_seminaru/C#_homeWork_seminar2/Home_work_3_seminr/zadacha21/bin/Debug/net7.0/zadacha21.deps.json
+/Users/aleksejparasnenko/Desktop/C#_seminaru/C#_homeWork_seminar2/Home_work_3_seminr/zadacha21/bin/Debug/net7.0/zadacha21.runtimeconfig.json
+/Users/aleksejparasnenko/Desktop/C#_seminaru/C#_homeWork_seminar2/Home_work_3_seminr/zadacha21/bin/Debug/net7.0/zadacha21.dll
+/Users/aleksejparasnenko/Desktop/C#_seminaru/C#_homeWork_seminar2/Home_work_3_seminr/zadacha21/bin/Debug/net7.0/zadacha21.pdb
+/Users/aleksejparasnenko/Desktop/C#_seminaru/C#_homeWork_seminar2/Home_work_3_seminr/zadacha21/obj/Debug/net7.0/zadacha21.dll
+/Users/aleksejparasnenko/Desktop/C#_seminaru/C#_homeWork_seminar2/Home_work_3_seminr/zadacha21/obj/Debug/net7.0/refint/zadacha21.dll
+/Users/aleksejparasnenko/Desktop/C#_seminaru/C#_homeWork_seminar2/Home_work_3_seminr/zadacha21/obj/Debug/net7.0/zadacha21.pdb
+/Users/aleksejparasnenko/Desktop/C#_seminaru/C#_homeWork_seminar2/Home_work_3_seminr/zadacha21/obj/Debug/net7.0/zadacha21.genruntimeconfig.cache
+/Users/aleksejparasnenko/Desktop/C#_seminaru/C#_homeWork_seminar2/Home_work_3_seminr/zadacha21/obj/Debug/net7.0/ref/zadacha21.dll
